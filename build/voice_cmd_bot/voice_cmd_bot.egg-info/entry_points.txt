@@ -1,0 +1,4 @@
+[console_scripts]
+command_mapper = voice_cmd_bot.command_mapper:main
+voice_node = voice_cmd_bot.voice_node:main
+

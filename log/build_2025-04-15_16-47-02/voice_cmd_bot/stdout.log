@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/voice_cmd_bot/voice_cmd_bot.egg-info/PKG-INFO
+writing dependency_links to ../../build/voice_cmd_bot/voice_cmd_bot.egg-info/dependency_links.txt
+writing entry points to ../../build/voice_cmd_bot/voice_cmd_bot.egg-info/entry_points.txt
+writing requirements to ../../build/voice_cmd_bot/voice_cmd_bot.egg-info/requires.txt
+writing top-level names to ../../build/voice_cmd_bot/voice_cmd_bot.egg-info/top_level.txt
+reading manifest file '../../build/voice_cmd_bot/voice_cmd_bot.egg-info/SOURCES.txt'
+writing manifest file '../../build/voice_cmd_bot/voice_cmd_bot.egg-info/SOURCES.txt'
+running build
+running build_py
+copying voice_cmd_bot/voice_node.py -> /home/ary/voice_ws/build/voice_cmd_bot/build/lib/voice_cmd_bot
+running install
+running install_lib
+copying /home/ary/voice_ws/build/voice_cmd_bot/build/lib/voice_cmd_bot/voice_node.py -> /home/ary/voice_ws/install/voice_cmd_bot/lib/python3.10/site-packages/voice_cmd_bot
+byte-compiling /home/ary/voice_ws/install/voice_cmd_bot/lib/python3.10/site-packages/voice_cmd_bot/voice_node.py to voice_node.cpython-310.pyc
+running install_egg_info
+removing '/home/ary/voice_ws/install/voice_cmd_bot/lib/python3.10/site-packages/voice_cmd_bot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/voice_cmd_bot/voice_cmd_bot.egg-info to /home/ary/voice_ws/install/voice_cmd_bot/lib/python3.10/site-packages/voice_cmd_bot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing voice_node script to /home/ary/voice_ws/install/voice_cmd_bot/lib/voice_cmd_bot
+writing list of installed files to '/home/ary/voice_ws/build/voice_cmd_bot/install.log'

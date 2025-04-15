@@ -1,0 +1,23 @@
+[0.362s] Invoking command in '/home/ary/voice_ws/src/voice_cmd_bot': PYTHONPATH=/home/ary/voice_ws/build/voice_cmd_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ary/voice_ws/install/voice_cmd_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/voice_cmd_bot build --build-base /home/ary/voice_ws/build/voice_cmd_bot/build install --record /home/ary/voice_ws/build/voice_cmd_bot/install.log --single-version-externally-managed
+[0.501s] running egg_info
+[0.501s] writing ../../build/voice_cmd_bot/voice_cmd_bot.egg-info/PKG-INFO
+[0.504s] writing dependency_links to ../../build/voice_cmd_bot/voice_cmd_bot.egg-info/dependency_links.txt
+[0.504s] writing entry points to ../../build/voice_cmd_bot/voice_cmd_bot.egg-info/entry_points.txt
+[0.504s] writing requirements to ../../build/voice_cmd_bot/voice_cmd_bot.egg-info/requires.txt
+[0.504s] writing top-level names to ../../build/voice_cmd_bot/voice_cmd_bot.egg-info/top_level.txt
+[0.504s] reading manifest file '../../build/voice_cmd_bot/voice_cmd_bot.egg-info/SOURCES.txt'
+[0.510s] writing manifest file '../../build/voice_cmd_bot/voice_cmd_bot.egg-info/SOURCES.txt'
+[0.510s] running build
+[0.510s] running build_py
+[0.510s] copying voice_cmd_bot/voice_node.py -> /home/ary/voice_ws/build/voice_cmd_bot/build/lib/voice_cmd_bot
+[0.510s] running install
+[0.510s] running install_lib
+[0.510s] copying /home/ary/voice_ws/build/voice_cmd_bot/build/lib/voice_cmd_bot/voice_node.py -> /home/ary/voice_ws/install/voice_cmd_bot/lib/python3.10/site-packages/voice_cmd_bot
+[0.510s] byte-compiling /home/ary/voice_ws/install/voice_cmd_bot/lib/python3.10/site-packages/voice_cmd_bot/voice_node.py to voice_node.cpython-310.pyc
+[0.513s] running install_egg_info
+[0.513s] removing '/home/ary/voice_ws/install/voice_cmd_bot/lib/python3.10/site-packages/voice_cmd_bot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.513s] Copying ../../build/voice_cmd_bot/voice_cmd_bot.egg-info to /home/ary/voice_ws/install/voice_cmd_bot/lib/python3.10/site-packages/voice_cmd_bot-0.0.0-py3.10.egg-info
+[0.518s] running install_scripts
+[0.536s] Installing voice_node script to /home/ary/voice_ws/install/voice_cmd_bot/lib/voice_cmd_bot
+[0.536s] writing list of installed files to '/home/ary/voice_ws/build/voice_cmd_bot/install.log'
+[0.553s] Invoked command in '/home/ary/voice_ws/src/voice_cmd_bot' returned '0': PYTHONPATH=/home/ary/voice_ws/build/voice_cmd_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ary/voice_ws/install/voice_cmd_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/voice_cmd_bot build --build-base /home/ary/voice_ws/build/voice_cmd_bot/build install --record /home/ary/voice_ws/build/voice_cmd_bot/install.log --single-version-externally-managed
